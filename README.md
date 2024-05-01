@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Simran Kaur</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">I'm an aspiring Data Scientist and passionate about coding and always eager to learn new concepts and technologies. While I haven't participated in any hackathons yet, I'm excited about the prospect of challenging myself in future coding events. Outside of programming, I enjoy playing Badminton.</h3>
 
 - 🌱 I’m currently learning **Python**
-
+- Hands on practice on ggplot and R studio
 - 📫 How to reach me **54321jit93@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="[https://www.w3schools.com/cpp/](https://www.linkedin.com/in/simrankaur2004/)" target="_blank" rel="noreferrer"></h3>
 <p align="left">
 </p>
 
