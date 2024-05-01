@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning **Python**
 - Hands on practice on ggplot and R studio
 - 📫 How to reach me **54321jit93@gmail.com**
-
-<h3 align="left">Connect with me: <a href="[https://www.w3schools.com/cpp/](https://www.linkedin.com/in/simrankaur2004/)" target="_blank" rel="noreferrer"></h3>
 <p align="left">
 </p>
 
