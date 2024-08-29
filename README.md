@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Simran Kaur</h1>
 <h3 align="center">I'm an aspiring Data Scientist and passionate about coding and always eager to learn new concepts and technologies. While I haven't participated in any hackathons yet, I'm excited about the prospect of challenging myself in future coding events. Currently excelling my skills in Power BI & Tableau and data analysis tools. Outside of programming, I love Painting and Sketching..</h3>
 
