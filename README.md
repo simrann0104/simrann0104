@@ -3,9 +3,9 @@
     I'm an aspiring Data Scientist, passionate about coding, and always eager to learn new concepts and technologies. While I haven't participated in any hackathons yet, I'm excited about the prospect of challenging myself in future coding events. Currently improving my skills in Power BI, Tableau, and data analysis tools. Outside of programming, I love painting and sketching.
 </h3>
 
-- 🔭 I’m currently working on **Customer Segmentation Classification**
+- 🔭 I’m currently working on **Addiction Risk Assessment**
 
-- 🌱 I’m currently learning **Tableau and Java**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **54321jit93@gmail.com**
 
