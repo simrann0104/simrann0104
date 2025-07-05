@@ -13,7 +13,7 @@
 
 Hello! I'm Simran — a data science graduate passionate about creating data-driven solutions that spark real impact. With a strong foundation in machine learning, programming, and visualization, I love diving into datasets and uncovering meaningful patterns.
 
-- 🎓 Final-year BCA @ Lovely Professional University (CGPA: 8.05)
+- 🎓 BCA graduate| @ Lovely Professional University
 - 💼 Currently exploring opportunities in AI, NLP, and model deployment
 - 🔍 Lifelong learner fueled by curiosity and creativity
 
@@ -42,7 +42,6 @@ Hello! I'm Simran — a data science graduate passionate about creating data-dri
 ### 🏅 Highlights & Certifications
 
 - 🔝 Top 10% academic performer at LPU  
-- 🏆 Gold Badge – Java (HackerRank)  
 - 📃 Deloitte Data Analytics Virtual Experience  
 - 📜 ML & Analytics – Infosys Springboard  
 - 🎓 Python – Google | R – Johns Hopkins | Power BI – Great Learning  
