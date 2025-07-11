@@ -13,7 +13,7 @@
 
 Hello! I'm Simran — a data science graduate passionate about creating data-driven solutions that spark real impact. With a strong foundation in machine learning, programming, and visualization, I love diving into datasets and uncovering meaningful patterns.
 
-- 🎓 BCA graduate| @ Lovely Professional University
+- 🎓 BCA graduate @ Lovely Professional University
 - 💼 Currently exploring opportunities in AI, NLP, and model deployment
 - 🔍 Lifelong learner fueled by curiosity and creativity
 
